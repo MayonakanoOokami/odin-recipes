@@ -1,1 +1,2 @@
 # odin-recipes
+This is Recipes Project for the HTML Foundations course from The Odin Project. It has you create an index page with links to 3 differnt recipe pages. Each recipe page has to have an image, the tile of the recipe in a header, a description of the recipe, an unordered list of the ingredients, and an ordered list stating the steps to make the recipe.
